@@ -2,7 +2,8 @@
 
 *Description:*
 
-This is a reaction game implemented using Arduino, a button and an LCD display. 
+This is a reaction game implemented using Arduino, a button and an LCD display. After a random delay between 3 to 6 seconds, when the message "Press NOW!" appears on the LCD display, you need to press the button as fast as possible.
+Then the amount of time you took to react is displayed on the LCD.
 
 *Hardware Setup:*
 1.	Connect the LCD module:
